@@ -358,15 +358,15 @@ msgid ""
 "permissions.\n"
 "    Check the pikaraoke log for errors."
 msgstr ""
-"Ylläoleva päivityslinkki saattaa epäonnistua, jos sinulla ei ole tarvittavia "
-"tiedoston käyttöoikeuksia.\n"
-"    Tarkista pikaraoke-log virheet."
+"Pautan kemaskini di atas mungkin gagal jika anda tidak mempunyai yang diperlukan "
+"akses kebenaran fail.\n"
+"    Semak log pikaraoke untuk ralat."
 
 #. Title of the section on shutting down / turning off the machine running
 #. Pikaraoke.
 #: templates/info.html:134
 msgid "Shutdown"
-msgstr "Sammuta"
+msgstr "Tutup"
 
 #. Explainitory text which explains why to use the shutdown link.
 #: templates/info.html:137
@@ -374,34 +374,34 @@ msgid ""
 "Don't just pull the plug! Always shut down your server properly to avoid "
 "data corruption."
 msgstr ""
-"Älä vain vedä pistokkeesta! Sammuta karaokelaite (=server) aina huolella, "
-"jotta tiedostot eivät vioitu."
+"Jangan tanggalkan plug! Sentiasa matikan peranti karaoke (=server) dengan selamat, "
+"supaya fail tidak rosak."
 
 #. Text for button which turns off Pikaraoke for everyone using it at your
 #. house.
 #: templates/info.html:143
 msgid "Quit Pikaraoke"
-msgstr "Sammuta Pikaraoke"
+msgstr "Keluar Pikaraoke"
 
 #. Text for button which reboots the machine running Pikaraoke.
 #: templates/info.html:146
 msgid "Reboot System"
-msgstr "Käynnistä järjestelmä uudelleen"
+msgstr "Sistem muatsemula"
 
 #. Text for button which turn soff the machine running Pikaraoke.
 #: templates/info.html:149
 msgid "Shutdown System"
-msgstr "Sammuta järjestelmä"
+msgstr "Tutup Sistem"
 
 #. Title for section containing a few other options on the Info page.
 #: templates/info.html:156
 msgid "Other"
-msgstr "Muut"
+msgstr "Lain"
 
 #. Text for button
 #: templates/info.html:159
 msgid "Expand Raspberry Pi filesystem"
-msgstr "Laajenna Raspberry Pi -tiedostojärjestelmää"
+msgstr "Luaskan sistem fail Raspberry Pi"
 
 #. Explainitory text which explains why you might want to expand the
 #. filesystem.
