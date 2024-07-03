@@ -247,13 +247,13 @@ msgid ""
 "Are you sure you want to update Youtube-dl right now? Current and "
 "pending downloads may fail."
 msgstr ""
-"Haluatko varmasti päivittää 'Youtube-dl':n juuri nyt? Tämänhetkiset ja jonottavat "
-"lataukset saattavat epäonnistua."
+"Anda pasti untuk kemaskini 'Youtube-dl' sekarang ini? Semasa dan "
+"muat turun yang belum selesai mungkin gagal."
 
 #. Title of the information page.
 #: templates/info.html:54
 msgid "Information"
-msgstr "Informaatio."
+msgstr "Informasi."
 
 #. Label which appears before a url which links to the current page.
 #: templates/info.html:64
@@ -265,17 +265,17 @@ msgstr "URL %(site_title)s:"
 #. scanned, so they can also add songs. QR code follows this text.
 #: templates/info.html:70
 msgid "Handy URL QR code to share with a pal:"
-msgstr "Kätevä URL QR-koodi kaverille jaettavaksi:"
+msgstr "Kod QR URL berguna untuk dikongsi dengan rakan:"
 
 #. Label before a link to the Splash screen.
 #: templates/info.html:74
 msgid "Open splash screen"
-msgstr "Avaa Splash-näyttö"
+msgstr "Buka paparan permuka"
 
 #. Header of the information section about the computer running Pikaraoke.
 #: templates/info.html:80
 msgid "System Info"
-msgstr "Järjestelmän Tiedot"
+msgstr "Sistem Informasi"
 
 #. The CPU usage of the computer running Pikaraoke.
 #: templates/info.html:83
@@ -287,41 +287,41 @@ msgstr "CPU: %(cpu)s"
 #: templates/info.html:85
 #, python-format
 msgid "Disk Usage: %(disk)s"
-msgstr "Levyn käyttö: %(disk)s"
+msgstr "Penggunaan Disk: %(disk)s"
 
 #. The memory (RAM) usiage of the computer running Pikaraoke.
 #: templates/info.html:87
 #, python-format
 msgid "Memory: %(memory)s"
-msgstr "Muisti: %(memory)s"
+msgstr "Memori: %(memory)s"
 
 #. The version of the program "Youtube-dl".
 #: templates/info.html:89
 #, python-format
 msgid "Youtube-dl (yt-dlp) version: %(youtubedl_version)s"
-msgstr "Youtube-dl (yt-dlp) -versio: %(youtubedl_version)s"
+msgstr "Youtube-dl (yt-dlp) -versi: %(youtubedl_version)s"
 
 #. The version of Pikaraoke running right now.
 #: templates/info.html:91
 #, python-format
 msgid "Pikaraoke version: %(pikaraoke_version)s"
-msgstr "Pikaraoke-versio: %(pikaraoke_version)s"
+msgstr "Pikaraoke-versi: %(pikaraoke_version)s"
 
 #. Title of the updates section.
 #: templates/info.html:98
 msgid "Updates"
-msgstr "Päivitykset"
+msgstr "Kemaskini"
 
 #. Label before a link which forces Pikaraoke to rescan and pick up any new
 #. songs.
 #: templates/info.html:100
 msgid "Refresh the song list:"
-msgstr "Päivitä kappalelista:"
+msgstr "Segarkan semula senarai lagu:"
 
 #. Text on the link which forces Pikaraoke to rescan and pick up any new songs.
 #: templates/info.html:105
 msgid "Rescan song directory"
-msgstr "Skannaa kappalehakemisto uudelleen"
+msgstr "Imbas semula direktori lagu"
 
 #. Help text explaining the Rescan song directory link.
 #: templates/info.html:110
@@ -329,8 +329,8 @@ msgid ""
 "You should only need to do this if you manually copied files to the "
 "download directory while pikaraoke was running."
 msgstr ""
-"Sinun tulisi tehdä tämä ainoastaan jos olet manuaalisesti kopioinut kappaleita "
-"latauskansioon pikaraoken ollessa päällä."
+"Anda hanya perlu melakukan ini jika anda telah menyalin lagu secara manual "
+"ke fail muat turun dengan slot pantas yang dihidupkan."
 
 #. Text explaining why you might want to update youtube-dl.
 #: templates/info.html:115
@@ -340,15 +340,15 @@ msgid ""
 "probably fix it.\n"
 "   The current installed version is: \"%(youtubedl_version)s\""
 msgstr ""
-"Jos lataukset tai haut lakkasivat toimimasta, ongelman voi todennäköisesti korjata"
-"päivittämällä 'youtube-dl':n.\n"
-"   Tämänhetkinen asennettu versio: \"%(youtubedl_version)s\""
+"Jika muat turun atau carian berhenti berfungsi, masalah itu mungkin boleh dibetulkan"
+"mengemaskini 'youtube-dl':n.\n"
+"   Versi semasa yang dipasang: \"%(youtubedl_version)s\""
 
 #. Text for the link which will try and update youtube-dl on the machine
 #. running Pikaraoke.
 #: templates/info.html:121
 msgid "Update youtube-dl"
-msgstr "Päivitä youtube-dl"
+msgstr "Kemaskini youtube-dl"
 
 #. Help text which explains why updating youtube-dl can fail.  The log is a
 #. file on the machine running Pikaraoke.
